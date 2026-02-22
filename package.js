@@ -1,0 +1,8 @@
+{
+  "name": "my-quiz-app",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "^1.28.4"
+  }
+}
